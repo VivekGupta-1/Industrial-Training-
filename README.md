@@ -20,6 +20,7 @@ All the learning during java training class
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 ## Memoization
@@ -40,6 +41,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 ## Sorting
@@ -54,4 +56,5 @@ All the learning during java training class
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
