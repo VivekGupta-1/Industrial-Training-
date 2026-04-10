@@ -35,6 +35,7 @@ All the learning during java training class
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
@@ -54,6 +55,7 @@ All the learning during java training class
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## String
 |  |
