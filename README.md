@@ -40,6 +40,7 @@ All the learning during java training class
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 ## Backtracking
 |  |
 | ------- |
@@ -52,14 +53,24 @@ All the learning during java training class
 | ------- |
 | [0015-3sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
+| [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
