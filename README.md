@@ -17,6 +17,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 ## Dynamic Programming
 |  |
@@ -73,4 +74,12 @@ All the learning during java training class
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
