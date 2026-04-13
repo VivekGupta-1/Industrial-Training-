@@ -33,6 +33,7 @@ All the learning during java training class
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 ## Array
 |  |
@@ -88,4 +89,16 @@ All the learning during java training class
 |  |
 | ------- |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
