@@ -52,6 +52,7 @@ All the learning during java training class
 | [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
+| [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
 | ------- |
@@ -70,6 +71,7 @@ All the learning during java training class
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
+| [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -101,6 +103,7 @@ All the learning during java training class
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -109,6 +112,7 @@ All the learning during java training class
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 ## Binary Tree
 |  |
 | ------- |
@@ -117,4 +121,5 @@ All the learning during java training class
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
