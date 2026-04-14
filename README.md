@@ -89,12 +89,14 @@ All the learning during java training class
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -102,6 +104,7 @@ All the learning during java training class
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
@@ -109,6 +112,7 @@ All the learning during java training class
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
