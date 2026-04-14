@@ -18,6 +18,7 @@ All the learning during java training class
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0007-reverse-integer) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
