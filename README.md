@@ -90,23 +90,27 @@ All the learning during java training class
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
