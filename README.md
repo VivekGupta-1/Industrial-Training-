@@ -14,6 +14,7 @@ All the learning during java training class
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
 ## Math
 |  |
 | ------- |
@@ -74,6 +75,7 @@ All the learning during java training class
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0709-to-lower-case) |
 ## Divide and Conquer
 |  |
