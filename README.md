@@ -72,12 +72,14 @@ All the learning during java training class
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
@@ -157,4 +159,8 @@ All the learning during java training class
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
