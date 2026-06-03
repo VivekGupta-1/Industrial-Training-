@@ -7,6 +7,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0024-swap-nodes-in-pairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0024-swap-nodes-in-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -105,6 +106,7 @@ All the learning during java training class
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0024-swap-nodes-in-pairs) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 ## Stack
 |  |
