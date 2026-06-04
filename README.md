@@ -15,6 +15,7 @@ All the learning during java training class
 | [0015-3sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
@@ -54,6 +55,7 @@ All the learning during java training class
 | [0001-two-sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
