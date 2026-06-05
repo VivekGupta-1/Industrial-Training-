@@ -60,6 +60,7 @@ All the learning during java training class
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 ## Backtracking
 |  |
 | ------- |
@@ -74,6 +75,7 @@ All the learning during java training class
 | [0015-3sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 ## Hash Table
 |  |
@@ -82,6 +84,7 @@ All the learning during java training class
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 ## String
 |  |
