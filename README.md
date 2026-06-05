@@ -32,6 +32,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 ## Memoization
@@ -59,6 +60,7 @@ All the learning during java training class
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 ## Backtracking
@@ -102,6 +104,7 @@ All the learning during java training class
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 ## Counting
 |  |
