@@ -24,6 +24,7 @@ All the learning during java training class
 | ------- |
 | [0007-reverse-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
@@ -85,6 +86,7 @@ All the learning during java training class
 | ------- |
 | [0001-two-sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
@@ -94,6 +96,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0020-valid-parentheses) |
