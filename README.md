@@ -9,6 +9,7 @@ All the learning during java training class
 | [0019-remove-nth-node-from-end-of-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0024-swap-nodes-in-pairs) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
 | ------- |
@@ -17,6 +18,7 @@ All the learning during java training class
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
 ## Math
@@ -89,6 +91,7 @@ All the learning during java training class
 | [0012-integer-to-roman](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
