@@ -73,6 +73,7 @@ All the learning during java training class
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
@@ -249,4 +250,8 @@ All the learning during java training class
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 <!---LeetCode Topics End-->
