@@ -34,6 +34,7 @@ All the learning during java training class
 | [0009-palindrome-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
@@ -259,4 +260,5 @@ All the learning during java training class
 | [0004-median-of-two-sorted-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
