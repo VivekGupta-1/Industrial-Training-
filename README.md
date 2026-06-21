@@ -34,6 +34,7 @@ All the learning during java training class
 | [0009-palindrome-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
@@ -80,6 +81,7 @@ All the learning during java training class
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
