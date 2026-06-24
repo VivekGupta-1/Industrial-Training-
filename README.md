@@ -24,6 +24,7 @@ All the learning during java training class
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0125-valid-palindrome) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
@@ -135,6 +136,7 @@ All the learning during java training class
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0125-valid-palindrome) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
