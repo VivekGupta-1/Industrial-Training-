@@ -174,6 +174,7 @@ All the learning during java training class
 | [0094-binary-tree-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0225-implement-stack-using-queues) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 ## Tree
 |  |
@@ -273,4 +274,12 @@ All the learning during java training class
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
