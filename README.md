@@ -199,6 +199,7 @@ All the learning during java training class
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
@@ -214,6 +215,7 @@ All the learning during java training class
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -234,6 +236,7 @@ All the learning during java training class
 | [0145-binary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
@@ -289,4 +292,8 @@ All the learning during java training class
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0232-implement-queue-using-stacks) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
