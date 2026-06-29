@@ -12,6 +12,7 @@ All the learning during java training class
 | [0024-swap-nodes-in-pairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 ## Two Pointers
 |  |
@@ -25,6 +26,7 @@ All the learning during java training class
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
@@ -121,6 +123,7 @@ All the learning during java training class
 | [0017-letter-combinations-of-a-phone-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
