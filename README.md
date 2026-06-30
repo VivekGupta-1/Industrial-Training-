@@ -45,6 +45,7 @@ All the learning during java training class
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
+| [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -281,6 +282,7 @@ All the learning during java training class
 | [0033-search-in-rotated-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0069-sqrtx) |
+| [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
 | ------- |
