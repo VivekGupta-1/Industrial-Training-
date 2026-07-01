@@ -95,6 +95,7 @@ All the learning during java training class
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -114,6 +115,7 @@ All the learning during java training class
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@ All the learning during java training class
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 ## String
 |  |
 | ------- |
@@ -159,11 +162,13 @@ All the learning during java training class
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -255,6 +260,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0023-merge-k-sorted-lists) |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -301,4 +307,12 @@ All the learning during java training class
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
