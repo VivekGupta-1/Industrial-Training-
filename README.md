@@ -74,6 +74,7 @@ All the learning during java training class
 | [0199-binary-tree-right-side-view](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
+| [0404-sum-of-left-leaves](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0404-sum-of-left-leaves) |
 ## Array
 |  |
 | ------- |
@@ -217,6 +218,7 @@ All the learning during java training class
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -233,6 +235,7 @@ All the learning during java training class
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -254,6 +257,7 @@ All the learning during java training class
 | [0226-invert-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
+| [0404-sum-of-left-leaves](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 ## Sliding Window
 |  |
