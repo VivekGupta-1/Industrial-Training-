@@ -46,6 +46,7 @@ All the learning during java training class
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
@@ -288,6 +289,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0258-add-digits) |
 ## Greedy
 |  |
 | ------- |
@@ -305,6 +307,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0258-add-digits) |
 ## Design
 |  |
 | ------- |
