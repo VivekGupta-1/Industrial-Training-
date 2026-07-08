@@ -44,6 +44,7 @@ All the learning during java training class
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
@@ -56,6 +57,7 @@ All the learning during java training class
 | [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
@@ -208,6 +210,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0102-binary-tree-level-order-traversal) |
@@ -253,6 +256,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0102-binary-tree-level-order-traversal) |
@@ -333,6 +337,7 @@ All the learning during java training class
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Bucket Sort
