@@ -15,6 +15,7 @@ All the learning during java training class
 | [0092-reverse-linked-list-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -193,6 +194,7 @@ All the learning during java training class
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0024-swap-nodes-in-pairs) |
+| [0203-remove-linked-list-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 ## Stack
 |  |
