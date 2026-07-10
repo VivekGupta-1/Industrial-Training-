@@ -100,6 +100,7 @@ All the learning during java training class
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
@@ -187,6 +188,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 ## Recursion
