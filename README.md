@@ -61,6 +61,7 @@ All the learning during java training class
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
 ## Memoization
@@ -106,6 +107,7 @@ All the learning during java training class
 | [0136-single-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
