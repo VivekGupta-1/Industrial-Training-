@@ -15,6 +15,7 @@ All the learning during java training class
 | [0092-reverse-linked-list-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0141-linked-list-cycle](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
@@ -30,6 +31,7 @@ All the learning during java training class
 | [0088-merge-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
@@ -128,6 +130,7 @@ All the learning during java training class
 | [0015-3sum](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
@@ -183,6 +186,7 @@ All the learning during java training class
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0190-reverse-bits) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
@@ -312,6 +316,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 ## String Matching
 |  |
 | ------- |
