@@ -35,6 +35,7 @@ All the learning during java training class
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
 ## Math
@@ -116,6 +117,7 @@ All the learning during java training class
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
 |  |
@@ -138,6 +140,7 @@ All the learning during java training class
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -156,6 +159,7 @@ All the learning during java training class
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -345,6 +349,7 @@ All the learning during java training class
 | [0074-search-a-2d-matrix](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
 ## Simulation
 |  |
