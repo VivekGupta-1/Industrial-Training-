@@ -114,6 +114,7 @@ All the learning during java training class
 | [0198-house-robber](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
@@ -155,6 +156,7 @@ All the learning during java training class
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
@@ -313,6 +315,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0219-contains-duplicate-ii) |
 ## Trie
 |  |
 | ------- |
