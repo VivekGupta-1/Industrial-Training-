@@ -119,6 +119,7 @@ All the learning during java training class
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
@@ -143,6 +144,7 @@ All the learning during java training class
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
@@ -165,6 +167,7 @@ All the learning during java training class
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 ## String
 |  |
 | ------- |
