@@ -54,6 +54,7 @@ All the learning during java training class
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
 ## Dynamic Programming
