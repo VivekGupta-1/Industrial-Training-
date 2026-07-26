@@ -121,6 +121,7 @@ All the learning during java training class
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0575-distribute-candies) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -170,6 +171,7 @@ All the learning during java training class
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0409-longest-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0575-distribute-candies) |
 ## String
 |  |
@@ -404,4 +406,8 @@ All the learning during java training class
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0074-search-a-2d-matrix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
