@@ -123,6 +123,7 @@ All the learning during java training class
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0575-distribute-candies) |
+| [0704-binary-search](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0704-binary-search) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Backtracking
@@ -371,6 +372,7 @@ All the learning during java training class
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
+| [0704-binary-search](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0704-binary-search) |
 ## Simulation
 |  |
 | ------- |
