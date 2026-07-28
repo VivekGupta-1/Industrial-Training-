@@ -18,6 +18,7 @@ All the learning during java training class
 | [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0203-remove-linked-list-elements) |
+| [2487-remove-nodes-from-linked-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -231,6 +232,7 @@ All the learning during java training class
 | [0024-swap-nodes-in-pairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0024-swap-nodes-in-pairs) |
 | [0203-remove-linked-list-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
+| [2487-remove-nodes-from-linked-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -243,6 +245,7 @@ All the learning during java training class
 | [0232-implement-queue-using-stacks](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0232-implement-queue-using-stacks) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -412,4 +415,8 @@ All the learning during java training class
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
