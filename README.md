@@ -171,6 +171,7 @@ All the learning during java training class
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
@@ -193,6 +194,7 @@ All the learning during java training class
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0409-longest-palindrome) |
 | [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
@@ -217,6 +219,7 @@ All the learning during java training class
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0387-first-unique-character-in-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -393,6 +396,7 @@ All the learning during java training class
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0387-first-unique-character-in-a-string) |
 ## Binary Search Tree
 |  |
 | ------- |
