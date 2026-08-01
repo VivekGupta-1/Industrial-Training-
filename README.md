@@ -212,6 +212,7 @@ All the learning during java training class
 | [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
@@ -226,6 +227,7 @@ All the learning during java training class
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0231-power-of-two) |
 ## Recursion
