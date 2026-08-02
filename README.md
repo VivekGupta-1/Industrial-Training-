@@ -282,6 +282,7 @@ All the learning during java training class
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -331,6 +332,7 @@ All the learning during java training class
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Sliding Window
 |  |
 | ------- |
@@ -407,6 +409,7 @@ All the learning during java training class
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0700-search-in-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0700-search-in-a-binary-search-tree) |
 ## Bucket Sort
 |  |
 | ------- |
