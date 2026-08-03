@@ -18,6 +18,7 @@ All the learning during java training class
 | [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0203-remove-linked-list-elements) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Two Pointers
 |  |
@@ -39,6 +40,7 @@ All the learning during java training class
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0541-reverse-string-ii) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Math
 |  |
 | ------- |
