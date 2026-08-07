@@ -228,6 +228,7 @@ All the learning during java training class
 | [0229-majority-element-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1603-design-parking-system) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -398,12 +399,14 @@ All the learning during java training class
 | ------- |
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0258-add-digits) |
+| [1603-design-parking-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1603-design-parking-system) |
 ## Design
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0232-implement-queue-using-stacks) |
+| [1603-design-parking-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
 | ------- |
