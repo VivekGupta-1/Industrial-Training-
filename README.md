@@ -292,6 +292,7 @@ All the learning during java training class
 | [0589-n-ary-tree-preorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -342,6 +343,7 @@ All the learning during java training class
 | [0404-sum-of-left-leaves](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Sliding Window
 |  |
 | ------- |
@@ -356,6 +358,7 @@ All the learning during java training class
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0023-merge-k-sorted-lists) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -407,6 +410,7 @@ All the learning during java training class
 | [0155-min-stack](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0232-implement-queue-using-stacks) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1603-design-parking-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1603-design-parking-system) |
 ## Queue
 |  |
@@ -423,6 +427,7 @@ All the learning during java training class
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0700-search-in-a-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -452,4 +457,8 @@ All the learning during java training class
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
