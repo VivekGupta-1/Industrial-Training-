@@ -66,6 +66,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
@@ -104,6 +105,7 @@ All the learning during java training class
 | [0031-next-permutation](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0045-jump-game-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
@@ -383,6 +385,7 @@ All the learning during java training class
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0409-longest-palindrome) |
 ## Binary Search
