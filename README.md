@@ -135,6 +135,7 @@ All the learning during java training class
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1912-design-movie-rental-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1912-design-movie-rental-system) |
 ## Backtracking
 |  |
 | ------- |
@@ -186,6 +187,7 @@ All the learning during java training class
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0575-distribute-candies) |
+| [1912-design-movie-rental-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1912-design-movie-rental-system) |
 ## String
 |  |
 | ------- |
@@ -363,6 +365,7 @@ All the learning during java training class
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
+| [1912-design-movie-rental-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1912-design-movie-rental-system) |
 ## Merge Sort
 |  |
 | ------- |
@@ -416,6 +419,7 @@ All the learning during java training class
 | [0232-implement-queue-using-stacks](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1603-design-parking-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1603-design-parking-system) |
+| [1912-design-movie-rental-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1912-design-movie-rental-system) |
 ## Queue
 |  |
 | ------- |
@@ -466,4 +470,8 @@ All the learning during java training class
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
+## Ordered Set
+|  |
+| ------- |
+| [1912-design-movie-rental-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1912-design-movie-rental-system) |
 <!---LeetCode Topics End-->
