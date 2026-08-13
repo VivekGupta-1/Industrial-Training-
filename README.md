@@ -50,6 +50,7 @@ All the learning during java training class
 | [0009-palindrome-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0069-sqrtx) |
@@ -108,6 +109,7 @@ All the learning during java training class
 | [0045-jump-game-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0074-search-a-2d-matrix) |
@@ -448,6 +450,7 @@ All the learning during java training class
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0074-search-a-2d-matrix) |
 ## Prefix Sum
 |  |
