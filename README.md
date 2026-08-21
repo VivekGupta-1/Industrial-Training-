@@ -40,6 +40,7 @@ All the learning during java training class
 | [0143-reorder-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -126,6 +127,7 @@ All the learning during java training class
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0204-count-primes) |
@@ -413,6 +415,7 @@ All the learning during java training class
 | [0069-sqrtx](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0222-count-complete-tree-nodes) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
