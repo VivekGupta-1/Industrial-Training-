@@ -81,6 +81,7 @@ All the learning during java training class
 | [0198-house-robber](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0435-non-overlapping-intervals) |
 ## Memoization
 |  |
 | ------- |
@@ -138,6 +139,7 @@ All the learning during java training class
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0575-distribute-candies) |
@@ -170,6 +172,7 @@ All the learning during java training class
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0435-non-overlapping-intervals](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -407,6 +410,7 @@ All the learning during java training class
 | [0045-jump-game-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0045-jump-game-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0409-longest-palindrome) |
+| [0435-non-overlapping-intervals](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0435-non-overlapping-intervals) |
 ## Binary Search
 |  |
 | ------- |
