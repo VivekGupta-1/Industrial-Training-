@@ -78,6 +78,7 @@ All the learning during java training class
 | [0070-climbing-stairs](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
@@ -157,6 +158,7 @@ All the learning during java training class
 | [0046-permutations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0077-combinations) |
+| [0131-palindrome-partitioning](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
 ## Sorting
 |  |
@@ -219,6 +221,7 @@ All the learning during java training class
 | [0058-length-of-last-word](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0131-palindrome-partitioning) |
 | [0227-basic-calculator-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0257-binary-tree-paths) |
