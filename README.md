@@ -69,6 +69,7 @@ All the learning during java training class
 | [0263-ugly-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Dynamic Programming
 |  |
@@ -149,6 +150,7 @@ All the learning during java training class
 | [0704-binary-search](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1912-design-movie-rental-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1912-design-movie-rental-system) |
@@ -179,6 +181,7 @@ All the learning during java training class
 | [0435-non-overlapping-intervals](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0435-non-overlapping-intervals) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 ## Hash Table
 |  |
@@ -249,6 +252,7 @@ All the learning during java training class
 | [0191-number-of-1-bits](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
@@ -389,6 +393,7 @@ All the learning during java training class
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
 | [1912-design-movie-rental-system](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1912-design-movie-rental-system) |
 ## Merge Sort
 |  |
@@ -473,6 +478,7 @@ All the learning during java training class
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
 ## Matrix
 |  |
 | ------- |
@@ -512,4 +518,12 @@ All the learning during java training class
 |  |
 | ------- |
 | [1359-count-all-valid-pickup-and-delivery-options](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
