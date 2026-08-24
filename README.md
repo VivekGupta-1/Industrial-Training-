@@ -69,6 +69,7 @@ All the learning during java training class
 | [0263-ugly-number](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0263-ugly-number) |
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0367-valid-perfect-square](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0367-valid-perfect-square) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -83,6 +84,7 @@ All the learning during java training class
 | [0279-perfect-squares](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0279-perfect-squares) |
 | [0392-is-subsequence](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0435-non-overlapping-intervals) |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 ## Memoization
 |  |
 | ------- |
@@ -506,4 +508,8 @@ All the learning during java training class
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/0142-linked-list-cycle-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [1359-count-all-valid-pickup-and-delivery-options](https://github.com/VivekGupta-1/Industrial-Training-/tree/master/1359-count-all-valid-pickup-and-delivery-options) |
 <!---LeetCode Topics End-->
